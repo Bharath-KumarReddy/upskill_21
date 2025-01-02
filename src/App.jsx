@@ -16,9 +16,9 @@ const App = () => {
     <>
     
    
-   <a href='https://github.com/Bharath-KumarReddy/upskill_21'>
-   <h1 className='text-orange-500 text-center  text-3xl  mt-[8%]'>All cards are here__ <span><a href='https://github.com/Bharath-KumarReddy/upskill_21'>Click to view code</a></span></h1>
-   </a>
+ 
+   <h1 className='text-orange-500 text-center  text-3xl  mt-[8%]'>All cards are here</h1>
+   
    
     <Cards items={items}/>
 
